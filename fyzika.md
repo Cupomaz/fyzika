@@ -37,7 +37,7 @@
 
 ## Ohmův zákon
 
-$I=\frac{V}{R}$
+$I=\frac{U}{R}$
 
 $I=G*U$
 
