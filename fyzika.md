@@ -29,7 +29,7 @@
 
 + výpočet odporu vodiče
 
-    $R=\rho*\frac{l}{S}$
+    $R=\rho\dfrac{l}{S}$
 
 + výpočet vodivosti vodiče v závislosti na teplotě
 
@@ -37,7 +37,7 @@
 
 ## Ohmův zákon
 
-$I=\frac{U}{R}$
+$I=\dfrac{U}{R}$
 
 $I=G*U$
 
@@ -45,4 +45,4 @@ $I=G*U$
 
 + proud v uzavřeném obvodu se rovná podílu elektromotorického napětí zdroje a součtu odporů vnější a vnitřní části obvodu
 
-    $I=\frac{U_e}{R+R_i}$
+    $I=\dfrac{U_e}{R+R_i}$
